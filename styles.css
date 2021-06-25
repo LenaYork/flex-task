@@ -11,3 +11,23 @@
     width: 100%;
     background-color: #e0e0e0;
 }
+
+.main-part {
+    background-color: #fff8e3;
+}
+
+.parts section {
+    background-color: #feeab9;
+}
+
+.aside {
+    background-color: #ddeccb;
+}
+
+.footer {
+    background-color: #e0e0e0;
+}
+
+.footer-section{
+    background-color: #fff;
+}
