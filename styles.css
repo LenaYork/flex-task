@@ -1,0 +1,13 @@
+.main-container {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+}
+ h1, h2, h3, p {
+     text-align: center;
+ }
+
+.header {
+    width: 100%;
+    background-color: #e0e0e0;
+}
