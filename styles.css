@@ -3,8 +3,8 @@
 }
 
 .main-container {
-    width: 97vw;
-    height: 95vh;
+    width: 100vw;
+    height: 100vh;
     display: flex;
     flex-direction: column;
 }
